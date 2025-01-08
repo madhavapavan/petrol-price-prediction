@@ -2,7 +2,6 @@ Sure! Below is an example of a README file that outlines the work you've done so
 
 ### Example README.md:
 
-```markdown
 # Petrol Price Prediction
 
 ## Overview

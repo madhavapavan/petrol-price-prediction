@@ -72,31 +72,3 @@ Feel free to fork this repository and submit pull requests. Please ensure that y
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
-### Customize This README:
-
-- **Overview**: I've made a basic assumption about the project (petrol price prediction). Feel free to change the description to reflect your actual work.
-  
-- **Files Section**: I included an example description of the notebook and CSV file based on your earlier message. You can add or update this section with additional files or details about your project.
-
-- **Installation Instructions**: Make sure to adjust the installation commands depending on your project dependencies. If you have a `requirements.txt` file, you can list the libraries there.
-
-- **Future Work**: Mention any upcoming tasks or features you'd like to implement in the future.
-
-### To Add to Your Repository:
-
-1. Open your project folder.
-2. Create a `README.md` file.
-3. Paste the contents above (after modifying as needed).
-4. Save the file.
-
-5. If you want to push the updated README to your GitHub repository, run these commands:
-
-```bash
-git add README.md
-git commit -m "Update README with project details"
-git push origin main
-```
-
-Let me know if you'd like further modifications or additional sections for the README!
